@@ -1,10 +1,11 @@
 {
+  "icon_theme": "VSCode Icons for Zed (Dark Angular)",
   "ui_font_size": 20,
   "buffer_font_size": 18,
   "theme": {
     "mode": "system",
     "light": "One Light",
-    "dark": "Ayu Dark"
+    "dark": "VSCode Dark Modern"
   },
   "show_edit_predictions": false,
   "soft_wrap": "editor_width",
